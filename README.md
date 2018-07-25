@@ -1,7 +1,7 @@
 # JavaScript
 
 ### algo_melody
-* Algorithmic melody. Starts two oscillators of different speeds and frequency to play a pleasant tune.  Displays frequency to user. [Play algo melody](https://rawgit.com/SageWare/JavaScript/master/algo_melody/index.html)
+* Algorithmic melody. Starts two oscillators of different speeds and frequency to play a pleasant tune.  Displays frequency to user. [Play algo_melody](https://rawgit.com/SageWare/JavaScript/master/algo_melody/index.html)
 
 
 ### piano_freq
