@@ -3,6 +3,8 @@
 ### algo_melody
 * Algorithmic melody. Starts two oscillators of different wave types and frequency ranges to play a pleasant tune.  Displays frequency to user. [Play algo_melody](https://rawgit.com/SageWare/JavaScript/master/algo_melody/index.html)
 
+### drum_machine_ui
+* Drum machine that utilizes the NexusUI library. Stores binary sequences, plays two types of clicks. [Play drum_machine_ui](https://cdn.rawgit.com/SageWare/JavaScript/8d7165c9/drum_machine_ui/index.html)
 
 ### piano_freq
 * Script that turns user's keyboard into a frequency based piano. Utilizes the Web Audio API and spans two octaves.  Starts one oscillator on mouse click, changes frequency on key press. Meant to be imbedded in a HTML iframe with graphical instructions for note mapping. Only one tone can be played at once.
