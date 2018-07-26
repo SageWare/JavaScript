@@ -2,7 +2,7 @@
 
 ### algo_melody
 * Algorithmic melody. Starts two oscillators of different wave types and frequency ranges to play a pleasant tune.  Displays frequency to user.   
-* [Play algo_melody](https://rawgit.com/SageWare/JavaScript/master/algo_melody/index.html)  
+* [Play algo_melody](https://rawgit.com/SageWare/JavaScript/master/algo_melody/index.html) - Please be mindful of your volume levels.
 ![ ](https://github.com/SageWare/JavaScript/blob/master/algo_melody/capture.png?raw=true)
 
 ### drum_machine_ui
