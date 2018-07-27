@@ -2,12 +2,12 @@
 
 ### algo_melody
 * Algorithmic melody. Starts two oscillators of different wave types and frequency ranges to play a pleasant tune.  Displays frequency to user.   
-* [Play algo_melody](https://rawgit.com/SageWare/JavaScript/master/algo_melody/index.html) - Please be mindful of your volume levels.
+* [Play algo_melody](https://rawgit.com/SageWare/JavaScript/master/algo_melody/index.html) - High gain, lower your volume first.
 ![ ](https://github.com/SageWare/JavaScript/blob/master/algo_melody/capture.png?raw=true)
 
 ### drum_machine_ui
 * Drum machine that utilizes the NexusUI library. Stores binary sequences, plays two types of clicks. Easily customizable for size and additional imported sounds.
-* [Play drum_machine_ui](https://cdn.rawgit.com/SageWare/JavaScript/8d7165c9/drum_machine_ui/index.html)  
+* [Play drum_machine_ui](https://cdn.rawgit.com/SageWare/JavaScript/8d7165c9/drum_machine_ui/index.html) - Low gain, turn volume up.  
 ![ ](https://github.com/SageWare/JavaScript/blob/master/drum_machine_ui/capture.png?raw=true)
 
 ### piano_freq
