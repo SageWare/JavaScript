@@ -8,7 +8,7 @@
 
 ### drum_machine_ui
 ![ ](https://github.com/SageWare/JavaScript/blob/master/drum_machine_ui/capture.png?raw=true)
-* Drum machine that utilizes the NexusUI library. Stores binary sequences, plays two types of clicks. Easily customizable for size and additional imported sounds.  
+* Drum machine that utilizes the NexusUI library. Stores binary sequences, uses two imported wav files. Easily customizable for size and additional imported sounds.  
 [View Code](https://github.com/SageWare/JavaScript/blob/master/drum_machine_ui/drum_machine_ui.js) | [Test Program](https://cdn.rawgit.com/SageWare/JavaScript/8d7165c9/drum_machine_ui/index.html) - Low gain, turn volume up.  
 
 ### piano_freq
