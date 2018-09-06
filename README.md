@@ -16,7 +16,7 @@
 [View Code](https://github.com/SageWare/JavaScript/blob/master/piano_freq/piano_freq.js)
 
 ### xyther
-* A theramin that utilizes the Web Audio API.  Starts two oscillators on mouse click, changes frequency based on XY coordinates. Meant to be imbedded in a HTML iframe with graphics.  
+* A theremin that utilizes the Web Audio API.  Starts two oscillators on mouse click, changes frequency based on XY coordinates. Meant to be imbedded in a HTML iframe with graphics.  
 [View Code](https://github.com/SageWare/JavaScript/blob/master/xyther/xyther.js)
 
 ## To Do:
